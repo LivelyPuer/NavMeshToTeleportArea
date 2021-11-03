@@ -16,7 +16,7 @@ if use default TeleportArea
 use generate TeleportArea
 
 ## How to use this
-1. Last release
+1. Download latest release
 2. import in Unity(You needed import SteamVR 2.x)
 3. Create Room 
 
